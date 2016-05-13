@@ -76,3 +76,7 @@ DFHack 0.42.06-r1-0-gcaa1b9f on Windows; cwd md5: b37b55b32b; save: OldAgeOfMyth
 DFHack 0.42.06-r1-0-gcaa1b9f on Windows; cwd md5: b37b55b32b; save: OldAgeOfMythNoElves; SC_MAP_LOADED; game type DWARF_MAIN (0)
 DFHack 0.42.06-r1-0-gcaa1b9f on Windows; cwd md5: b37b55b32b; save: OldAgeOfMythNoElves; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
 DFHack 0.42.06-r1-0-gcaa1b9f on Windows; cwd md5: b37b55b32b; save: OldAgeOfMythNoElves; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)
+[2016-05-12T23:06:18+0100] DFHack 0.42.06-r1-0-gcaa1b9f on Linux; cwd md5: f31c13974c; save: OldAgeOfMythNoElves; SC_WORLD_LOADED; game type DWARF_MAIN (0)
+[2016-05-12T23:06:18+0100] DFHack 0.42.06-r1-0-gcaa1b9f on Linux; cwd md5: f31c13974c; save: OldAgeOfMythNoElves; SC_MAP_LOADED; game type DWARF_MAIN (0)
+[2016-05-13T00:59:28+0100] DFHack 0.42.06-r1-0-gcaa1b9f on Linux; cwd md5: f31c13974c; save: OldAgeOfMythNoElves; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
+[2016-05-13T00:59:28+0100] DFHack 0.42.06-r1-0-gcaa1b9f on Linux; cwd md5: f31c13974c; save: OldAgeOfMythNoElves; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)
